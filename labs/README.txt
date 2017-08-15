@@ -1,1 +1,3 @@
-RepositÛrio onde os arquivos dos labs ser„o postados.
+Reposit√≥rio onde os arquivos dos labs ser√£o postados.
+
+Trabalhos em dupla, com o Felipe A. X. Uchida: https://github.com/felipeuchida/ces28_2017_felipe.uchida/
