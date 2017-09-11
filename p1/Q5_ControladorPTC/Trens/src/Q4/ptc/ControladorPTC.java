@@ -56,19 +56,19 @@ public class ControladorPTC{
 		return result;
 	}
 
-	public void enviaMsgNormalPainel(Object msg, PainelCondutor condutor) {
+	private void enviaMsgNormalPainel(Object msg, PainelCondutor condutor) {
 		condutor.imprimirAviso(msg.toString(), 1);
 	}
 
-	public void enviaMsgDatacenter(Object msg, Datacenter datacenter) {
+	private void enviaMsgDatacenter(Object msg, Datacenter datacenter) {
 		datacenter.gerarRelatorio(msg.toString());
 	};
 
-	public void diminuiVelocidade(double valor) {
+	private void diminuiVelocidade(double valor) {
 		this.painelCond.diminuiVelocidadeTrem(valor);
 	};
 
-	public void aumentaVelocidade(double valor) {
+	private void aumentaVelocidade(double valor) {
 		this.painelCond.aceleraVelocidadeTrem(valor);
 	};
 
