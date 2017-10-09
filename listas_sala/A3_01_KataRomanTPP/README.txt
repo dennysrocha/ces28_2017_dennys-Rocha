@@ -1,1 +1,1 @@
-Em trio com Felipe A. X. Uchida e Guilherme Silva.
+Em trio com Dennys Rocha e Guilherme Silva.
