@@ -1,0 +1,7 @@
+https://refactoring.guru/design-patterns/observer
+
+https://sourcemaking.com/design_patterns/observer
+
+http://www.oodesign.com/observer-pattern.html
+
+http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf
