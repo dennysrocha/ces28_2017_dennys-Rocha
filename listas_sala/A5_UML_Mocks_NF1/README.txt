@@ -1,1 +1,1 @@
-Em dupla com Dennys Rocha.
+Em dupla com Felipe Uchida.
